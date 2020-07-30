@@ -9,7 +9,7 @@ We've tried to note which are proven and tested, but by downloading these files,
 
 **We cannot be held responsible for faulty PCBs.  Always check your parts against a 1:1 printout.**
 
-This is the complete SparkFun Electronics default foot prints for Eagle 6.0+. 
+This is the complete SparkFun Electronics default foot prints for Eagle 6.0+. Yes done!
 
 Library Descriptions
 ----------------
