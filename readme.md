@@ -9,7 +9,7 @@ We've tried to note which are proven and tested, but by downloading these files,
 
 **We cannot be held responsible for faulty PCBs.  Always check your parts against a 1:1 printout.**
 
-This is the complete SparkFun Electronics default foot prints for Eagle 6.0+. Yes done!
+This is the complete SparkFun Electronics default foot prints for Eagle 6.0+.
 
 Library Descriptions
 ----------------
@@ -48,7 +48,7 @@ We've grouped the various parts into individual libraries to make it as easy as 
 * **Switches** - Switches, buttons, joysticks, and anything that moves to create or disrupt an electrical connection. 
 * **User-Submitted** - Parts submitted from SparkFun users everywhere!
 
-How to Use Eagle
+How to Use Eagle change
 ----------------
 
 If you need more information about how to use Eagle, checkout our Eagle Tutorials: 
